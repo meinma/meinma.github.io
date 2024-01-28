@@ -15,7 +15,7 @@ authors:
 - Michael P. Menden
 publication_types:
 - '2'
-abstract: Abstract Mechanistic insight into ageing may empower prolonging the lifespan
+abstract: Mechanistic insight into ageing may empower prolonging the lifespan
   of humans; however, a complete understanding of this process is still lacking despite
   a plethora of ageing theories. In order to address this, we investigated the association
   of lifespan with eight phenotypic traits, that is, litter size, body mass, female
