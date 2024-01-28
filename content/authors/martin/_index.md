@@ -14,7 +14,7 @@ organizations:
     url: https://www.helmholtz-munich.de/
 
 interests:
-    - (Predictive) Biomarker detection
+    - Biomarker & risk factor identification
     - Patient stratification
     - Precision medicine
 
@@ -60,13 +60,10 @@ email: 'martin.meinel@helmholtz-munich.de'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/). I am jointly supervised by Michael Menden and Natalie Garzorz-Stark. I got selected to be part of the [Munich School for Data Science - MUDS](https://www.mu-ds.de).
+I am a PhD student of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/), where Michael Menden and Natalie Garzorz-Stark jointly supervise me. I got selected to be part of the [Munich School for Data Science - MUDS](https://www.mu-ds.de).
 
-<!-- My research centers around biomarker detection and patient stratification in dermatology. For that, I am applying and developing biostatistical and machine learning models. My overall aim is to translate my research into clinical practice. -->
+My research centers around translating Machine Learning research to healthcare, primarily focused on inflammatory skin diseases. I developed the framework SAFARI - a framework for **S**parse biom**a**rker detection **f**or r**ar**e d**i**seases, leveraging bulk RNA-seq data. I created this framework to address the clinically very relevant question of distinguishing eczema, the most common inflammatory skin disease, from cutaneous T Cell lymphoma, a rare malignant tumour disease. 
 
-
-My research centers around translating Machine Learning research to the healthcare domain, especially focused on inflammatory skin diseases. I developed the framework SAFARI - a framework for **S**parse biom**a**rker detection **f**or r**ar**e d**i**seases, leveraging bulk RNA-seq data. I developed this framework to address the clinically very relevant question of how to distinguish eczema, the most common inflammatory skin disease, from cutaneous T Cell lymphoma, a rare malignant tumour disease. 
-
-We patented the discovered biomarkers and are currently validating them in an independent cohort. I am presenting SAFARI on the 10th of December at the [ML4H workshop](https://ml4h.cc/2023/) in New Orleans.
+We patented the discovered biomarkers and are currently validating them in an independent cohort. I presented SAFARI on the 10th of December at the [ML4H workshop](https://ml4h.cc/2023/) in New Orleans.
 
 {style="text-align: justify;"}
