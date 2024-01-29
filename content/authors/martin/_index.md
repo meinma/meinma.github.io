@@ -61,12 +61,11 @@ email: 'martin.meinel@helmholtz-munich.de'
 highlight_name: true
 ---
 I am a PhD student of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/), under the joint supervision of Michael Menden and Natalie Garzorz-Stark.
-<!-- # I got selected to be part of the [Munich School for Data Science - MUDS](https://www.mu-ds.de). -->
 
-My research centers around translating Machine Learning research to healthcare, primarily focused on inflammatory skin diseases. One of my main achievements so far is the development of SAFARI - a framework for **S**parse biom**a**rker detection **f**or r**ar**e d**i**seases, leveraging bulk RNA-seq data. I created this framework to address the clinically relevant question of distinguishing eczema, the most common inflammatory skin disease, from cutaneous T Cell lymphoma, a rare malignant tumor disease. 
+
+My research centers around translating Machine Learning research to healthcare, primarily focused on inflammatory skin diseases with the goal of biomarker identification for diagnosis, treatment response prediction and the detection of causal risk factors. One of my main achievements so far is the development of SAFARI - a framework for **S**parse biom**a**rker detection **f**or r**ar**e d**i**seases, leveraging bulk RNA-seq data. It addresses the clinically relevant question of distinguishing eczema, the most common inflammatory skin disease, from cutaneous T Cell lymphoma, a rare malignant tumor disease. 
 
 The work done by me and my colleagues has led to the patenting of the identified biomarkers. We are currently in the process of conducting validation studies with an independent cohort. I had the privilege of presenting SAFARI at the [ML4H workshop](https://ml4h.cc/2023/) on December 10th, 2023, in New Orleans.
 
-<!-- In collobaration with the Eyerich Lab, the discovered biomarkers were patented. I presented SAFARI on the 10th of December at the [ML4H workshop](https://ml4h.cc/2023/) in New Orleans. -->
 
 {style="text-align: justify;"}
