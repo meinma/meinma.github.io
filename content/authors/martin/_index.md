@@ -15,8 +15,9 @@ organizations:
 
 interests:
     - Biomarker & Risk Factor identification
-    - Patient stratification
-    - Precision medicine
+    - Single-cell genetics
+    - Mendelian Randomization
+    - Precision Medicine
 
 education:
   courses:
@@ -52,7 +53,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/MM_CV.pdf
+    link: uploads/MM_CV_200725.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'martin.meinel@helmholtz-munich.de'
@@ -60,12 +61,12 @@ email: 'martin.meinel@helmholtz-munich.de'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/), under the joint supervision of Michael Menden and Natalie Garzorz-Stark.
 
 
-My research centers around translating Machine Learning research to healthcare, primarily focused on inflammatory skin diseases with the goal of biomarker identification for diagnosis, treatment response prediction and the detection of causal risk factors. One of my main achievements so far is the development of SAFARI - a framework for **S**parse biom**a**rker detection **f**or r**ar**e d**i**seases, leveraging bulk RNA-seq data. It addresses the clinically relevant question of distinguishing eczema, the most common inflammatory skin disease, from cutaneous T Cell lymphoma, a rare malignant tumor disease. 
+I am a Ph.D. candidate of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/), under the joint supervision of [Michael Menden](https://findanexpert.unimelb.edu.au/profile/1048557-michael-menden), [Natalie Garzorz-Stark](https://dermagnostix.com/about-us/) and [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/research-group-lab-77/francesco-paolo-casale). Besides, I am honored to be part of the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) residency with [Theofanis Karaletsos](https://scholar.google.de/citations?user=zrxafGsAAAAJ&hl=de).
 
-The work done by me and my colleagues has led to the patenting of the identified biomarkers. We are currently in the process of conducting validation studies with an independent cohort. I had the privilege of presenting SAFARI at the [ML4H workshop](https://ml4h.cc/2023/) on December 10th, 2023, in New Orleans.
+I am a computational biologist passionate about advancing precision medicine through machine learning and statistical genetics, with particular expertise in inflammatory diseases. During my Ph.D., I developed SAFARI, a biomarker detection framework that revealed a sparse gene signature distinguishing early Mycosis Fungoides (MF) patients from those with benign inflammatory skin diseases. This work was patented and is leveraged by [Dermagnostix](https://dermagnostix.com/pipeline-products/) in their emerging diagnostic tool ''LymphX''. 
+Within the collaboration with the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), I combine statistical genetics with multiple instance learning to pinpoint cellular contexts in which genes act as disease drivers, revealing mechanistic insights that inform therapeutic target identification.
 
 
 {style="text-align: justify;"}
