@@ -14,7 +14,7 @@ main:
     url: 'academic/'
     weight: 30
   - name: CV
-    url: uploads/MM_CV_200725.pdf
+    url: uploads/MM_CV.pdf
     weight: 40
   # - name: PhD life
   #   url: 
