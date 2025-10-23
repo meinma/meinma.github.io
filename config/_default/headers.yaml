@@ -1,4 +1,4 @@
-# Disable caching for the CV file
+headers:
 - for: "/uploads/MM_CV.pdf"
   values:
     Cache-Control: "no-cache, no-store, must-revalidate"
