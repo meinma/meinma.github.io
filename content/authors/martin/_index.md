@@ -53,7 +53,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/MM_CV_200725.pdf
+    link: uploads/MM_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'martin.meinel@helmholtz-munich.de'
