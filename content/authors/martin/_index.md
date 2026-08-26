@@ -7,23 +7,23 @@ last_name: Meinel
 
 superuser: True
 
-role: PhD student in Computational Biology
+role: Postdoctoral researcher in computational biology
 
 organizations:
-  - name: Helmholtz Center Munich
+  - name: Helmholtz Munich
     url: https://www.helmholtz-munich.de/
 
 interests:
-    - Biomarker & Risk Factor identification
+    - Biomarker identification
     - Single-cell genetics
-    - Mendelian Randomization
-    - Precision Medicine
+    - Causal inference
+    - Early target discovery
 
 education:
   courses:
-    - course: PhD in Machine Learning in Health
-      institution: Helmholtz Center Munich
-      year: 2021 - present
+    - course: PhD in Machine Learning for Health
+      institution: Helmholtz Munich
+      year: 2021 - 2026
     - course: TUM Skills Excellence Program with Major in Data Engineering & Analytics and Minor in Economics
       institution: Technical University of Munich (TUM) 
       year: 2021
@@ -62,11 +62,15 @@ email: 'martin.meinel@helmholtz-munich.de'
 highlight_name: true
 ---
 
+I am a postdoctoral researcher in the [Casale Lab](https://aih-sgml.github.io/casalelab/) at [Helmholtz Munich](https://www.helmholtz-munich.de/), focusing on genotype-context interactions, revealing cellular contexts where variants affect expression.
 
-I am a Ph.D. candidate of the [Menden Lab](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab) at [Helmholtz Centre Munich](https://www.helmholtz-munich.de/), under the joint supervision of [Michael Menden](https://findanexpert.unimelb.edu.au/profile/1048557-michael-menden), [Natalie Garzorz-Stark](https://dermagnostix.com/about-us/) and [Francesco Paolo Casale](https://www.helmholtz-munich.de/en/research-group-lab-77/francesco-paolo-casale). Besides, I am honored to be part of the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) residency with [Theofanis Karaletsos](https://scholar.google.de/citations?user=zrxafGsAAAAJ&hl=de).
+During my Ph.D. I was part of [Menden Lab](https://biomedicalsciences.unimelb.edu.au/sbs-research-groups/biochemistry-and-pharmacology-research/menden-laboratory) at [Helmholtz Munich](https://www.helmholtz-munich.de/) under the joint supervision of Michael Menden, Natalie Garzorz-Stark, and Francesco Paolo Casale. Furthermore, I was honored to be a [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) resident with Theofanis Karaletsos.
 
-I am a computational biologist passionate about advancing precision medicine through machine learning and statistical genetics, with particular expertise in inflammatory diseases. During my Ph.D., I developed SAFARI, a biomarker detection framework that revealed a sparse gene signature distinguishing early Mycosis Fungoides (MF) patients from those with benign inflammatory skin diseases. This work was patented and is leveraged by [Dermagnostix](https://dermagnostix.com/pipeline-products/) in their emerging diagnostic tool ''LymphX''. 
-Within the collaboration with the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), I combine statistical genetics with multiple instance learning to pinpoint cellular contexts in which genes act as disease drivers, revealing mechanistic insights that inform therapeutic target identification.
+My research centers on biomarker discovery for diagnostics and early therapeutic targeting, leveraging transcriptomics data across different resolutions (bulk, qPCR, single-cell, spatial) together with single-cell genetics data. I developed SAFARI, a biomarker discovery framework designed for rare conditions with limited cohort sizes, and used it to reveal a sparse gene signature discriminating early mycosis fungoides from eczema and psoriasis. The markers are covered by a published patent application and are implemented in the research-use-only diagnostic tool [Erysk](https://dermagnostix.com/erysk-targetdisk/) from Dermagnostix.
+
+More recently, I developed FocusMR, an attention-based single-cell Mendelian Randomization framework that combines statistical genetics with multiple instance learning to pinpoint the cellular contexts in which genes act as disease drivers. These mechanistic insights enable more precise therapeutic targeting. This work was selected for oral presentation at the [NeurIPS 2025 AI4D3 workshop](https://ai4d3.github.io/2025/schedule.html).
+
+
 
 
 {style="text-align: justify;"}
