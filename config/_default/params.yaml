@@ -104,7 +104,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: false
     # Custom footer text (HTML supported)
-    text: ""
+    text: '[DNA icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/dna "dna icons")'
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
