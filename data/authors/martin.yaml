@@ -1,0 +1,60 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Martin Meinel
+
+status:
+  icon: 
+role: Postdoctoral Researcher in Computational Biology
+bio: |
+  I am a postdoctoral researcher in the [Casale lab](https://aih-sgml.github.io/casalelab/) developing methods for transcriptomics and single-cell genetics data for biomarker and drug target discovery.
+  
+  During my PhD, I identified a sparse gene signature distinguishing a rare skin lymphoma from the two most common inflammatory skin diseases, resulting in a filed patent and the research-use-only diagnostic tool [Erysk](https://dermagnostix.com/de/erysk-targetdisk/) (in collaboration with Dermagnostix).
+  
+  As a Chan Zuckerberg resident, I worked on causal inference with single-cell genetics data to identify candidate causal disease genes and the cell states in which they act, enabling more precise therapeutic intervention.
+
+  My goal is to create translational impact.
+
+affiliations:
+  - name: Helmholtz Munich
+    url: https://www.helmholtz-munich.de/
+
+links:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:martin.meinel@helmholtz-munich.de
+  - icon: brands/github
+    url: https://github.com/meinma
+  - icon: brands/linkedin
+    url: https://de.linkedin.com/in/martinmeinel
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=R01YOhkAAAAJ&hl=de
+  - icon: cv
+    icon_pack: ai
+    url: uploads/MM_CV.pdf
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
+
+interests:
+    - Translational impact
+    - Biomarker discovery
+    - Early target discovery
+    - Single-cell genetics
+    - Causal inference
+
+education:
+  - degree: PhD in Computational Biology
+    institution: Helmholtz Munich
+    start: 2021
+    end: 2026
+  - degree: M.Sc. in Data Engineering and Analytics
+    institution: Technical univeristy of Munich
+    start: 2018
+    end: 2020
+  - degree: B.Sc. in Applied Computer Science
+    institution: University of Bayreuth
+    start: 2014
+    end: 2017
+
+

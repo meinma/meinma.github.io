@@ -1,0 +1,13 @@
+/* Keep the top bar content (name + menu) off the window edge, aligned with the page content.
+   The bar background itself stays full width. Increase max-width for a wider bar, or remove it for full width. */
+#site-header .navbar {
+  max-width: 68rem;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+/* Less empty space between the top bar and the biography block (theme default: up to 8rem on large screens).
+   Increase the value for more space, set to 0 for none. */
+.resume-biography {
+  padding-top: 0rem;
+}

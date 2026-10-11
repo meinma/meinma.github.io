@@ -1,0 +1,14 @@
+[workspace]
+authors = ["ge25jez <martin.meinel@tum.de>"]
+channels = ["conda-forge"]
+name = "meinma-cv"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+academic = ">=0.11.2, <0.12"
